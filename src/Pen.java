@@ -1,5 +1,5 @@
 public class Pen {
-    private Point position;
+    public Point position;
 
     public void moveTo(Point z){
         System.out.println("Pen moved to "+z);
